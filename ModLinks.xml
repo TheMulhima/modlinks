@@ -2027,7 +2027,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>DebugMod</Name>
+        <Name>DebugMod/</Name>
         <Description>Allows for debug tools and features like no clip, invincibility, removing and giving items and abilities.</Description>
         <Version>1.4.10.2</Version>
         <Link SHA256="1220155C2E40E2D143180F24DFAB9357F7C0C83E2D76B091CE409962A3C9160A">
