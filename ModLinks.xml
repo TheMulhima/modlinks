@@ -18,6 +18,22 @@
         <Author>Zickles</Author>
     </Authors>
  </Manifest>
+<Manifest>
+    <Name>Pale Court</Name>
+    <Description>LMAO</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="FD1131817F2F6FF7ED4FF46CA51176DA1D6E896B4BE93BF32C42E0C7E679964E"><![CDATA[https://github.com/LMAO/LMAO/releases/download/1.0.0.0/PaleCourt.zip]]></Link>
+    <Dependencies/>
+    <Repository>
+        <![CDATA[https://github.com/LMAO/LMAO]]>
+    </Repository>
+    <Tags>
+        <Tag>Cosmetic</Tag>
+    </Tags>
+    <Authors>
+        <Author>Zickles</Author>
+    </Authors>
+ </Manifest>
   <Manifest>
     <Name>Floor Time Counter</Name>
     <Description>Adds a counter for how many frames you've touched the ground.</Description>
