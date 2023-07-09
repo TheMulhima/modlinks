@@ -8,10 +8,12 @@
 Overcome your opponents with powerful new charms!
 Discover new secrets and stories!
 All with an incredible new soundtrack!</Description>
-    <Version>1.0.0.1</Version>
-    <Link SHA256="4172E140AAED794B4CBBF5DCD6EF8F27B09CE3E880613E6EBB43BD6D0F610692">
-        <![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.1/PaleCourt.zip]]>
-    </Link>
+    <Version>1.0.0.4</Version>
+	<Links>
+		<Linux SHA256="EB3C4CE478AFDAB3D2085B2E33BD7AE1AC398B4C82FBBBB485029004B93F8CE4"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.4/PaleCourt-Win.zip]]></Linux>
+        <Mac SHA256="E00FF8C20E3052C4E09C5A773C59E28B87C0DB62E77C8627AE56BB07B47B319A"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.4/PaleCourt-Mac.zip]]></Mac>
+        <Windows SHA256="EB3C4CE478AFDAB3D2085B2E33BD7AE1AC398B4C82FBBBB485029004B93F8CE4"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.4/PaleCourt-Win.zip]]></Windows>
+    </Links>
     <Dependencies>
         <Dependency>FrogCore</Dependency>
         <Dependency>SFCore</Dependency>
@@ -4035,9 +4037,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>UnityExplorerPlus</Name>
         <Description>A mod that adds functionality to UnityExplorer</Description>
-        <Version>2.4.0.0</Version>
-        <Link SHA256="ED99CB6206728965F6AAD28FF8BC9554E2A825E449173F7369D4C18509BAF1FE">
-            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v2.5.0.0/Publish.zip]]>
+        <Version>2.6.0.0</Version>
+        <Link SHA256="3742BA1A2946023345220B4C409BACD996F0B9288DF67A64E87A6229F9C6D919">
+            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v2.6.0.0/Publish.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
