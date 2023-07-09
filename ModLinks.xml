@@ -22,6 +22,9 @@ All with an incredible new soundtrack!</Description>
     <Repository>
         <![CDATA[https://github.com/PaleCourt/PaleCourt]]>
     </Repository>
+    <Issues>
+        <![CDATA[https://modforge.gg]]>
+    </Issues>
     <Integrations>
         <Integration>GodSeekerPlus</Integration>
         <Integration>Enemy HP Bar</Integration>
